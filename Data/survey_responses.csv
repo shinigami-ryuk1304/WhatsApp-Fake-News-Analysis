@@ -1,4 +1,4 @@
-Respondent ID,Gender,Age Range,Faculty,Department,Level,Owns Smartphone,Uses WhatsApp,B1,B2,B3,B4,B5,B6,B7,C1_Type_1,C1_Type_2,C1_Type_3,C1_Type_4,C1_Type_5,C1_Type_6,C1_Type_7,C2_Q8,C2_Q9,C2_Q10,C2_Q11,D1,D2,D3,D4,D5,D6,D7,E1,E2,E3,E4,E5,E6,E7
+respondent_id,gender,age_range,faculty,department,level,owns_smartphone,uses_whatsapp,b1,b2,b3,b4,b5,b6,b7,c1_type_1,c1_type_2,c1_type_3,c1_type_4,c1_type_5,c1_type_6,c1_type_7,c2_q8,c2_q9,c2_q10,c2_q11,d1,d2,d3,d4,d5,d6,d7,e1,e2,e3,e4,e5,e6,e7
 1,Male,16–20,Management Sciences,Computer Science,300,Yes,Yes,4,1,1,2,3,3,4,1,1,0,1,1,1,0,4,3,5,3,4,5,5,3,3,2,1,4,5,4,3,5,5,5
 2,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,3,5,4,5,4,4,1,1,1,1,1,1,0,1,2,2,5,4,3,4,1,4,3,2,2,4,5,4,5,4,5,4
 3,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,5,4,4,3,4,4,1,1,1,0,1,0,0,1,4,5,4,2,5,4,5,1,3,2,4,4,4,5,3,5,4

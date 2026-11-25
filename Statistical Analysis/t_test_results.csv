@@ -1,0 +1,4 @@
+Scale,Mean,T,DegreesOfFreedom,PValue
+prevalence_score,3.9,38.74,399,< 0.001
+impact_score,3.56,25.45,399,< 0.001
+solutions_score,4.01,50.34,399,< 0.001

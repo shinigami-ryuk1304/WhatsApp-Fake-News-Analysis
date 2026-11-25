@@ -8,7 +8,7 @@ Key Points:
 * Real effects: missed classes, stress and bad decisions.
 * Official channels are slow, so students fall back on whatever is forwarded to them.
 
-Tools I used: Python (pandas, SciPy), SQL, SPSS, Excel, Power BI
+Tools I used: SQL Server, Python (pandas, SciPy), SPSS, Excel, Power BI
 
 Data: 400 students across six faculties, all levels, collected in 2025. Most questions use a 5-point scale (1 = strongly disagree, 5 = strongly agree).
 
@@ -37,24 +37,32 @@ Data: 400 students across six faculties, all levels, collected in 2025. Most que
 ## Repo structure
 ```
 Data/
-  raw_survey_responses.csv        original export
-  cleaned_survey_responses.csv    after data_cleaning.py
-  codebook.csv                    what each column means
+  survey_responses.csv     survey export (timestamps removed)
+  codebook.csv             what each column means
 Scripts/
-  data_cleaning.py
-  01_create_table.sql
-  02_data_checks.sql
-  03_analysis_queries.sql
-  statistical_tests.py
+  dim_students.sql
+  fact_prevalence.sql
+  fact_misinformation_types.sql
+  fact_impact.sql
+  fact_solutions.sql
+Statistical Analysis/
+  t_tests.py
+  t_test_results.csv, scores_by_level.csv
 Dashboard/
   dashboard.png / dashboard.html
-  Excel workbook (dashboard, charts, data, tests)
+  Excel workbook (dashboard, a chart for every question, data, tests)
 ```
 
 ## How to run it
-1. Run `python Scripts/data_cleaning.py` to create the cleaned file in the Data folder.
-2. Create the table with `Scripts/01_create_table.sql`, load `Data/cleaned_survey_responses.csv` into it, then run `02_data_checks.sql` and `03_analysis_queries.sql`. I wrote them in standard SQL, so they run in SQL Server, PostgreSQL, MySQL 8 or SQLite.
-3. Run `python Scripts/statistical_tests.py` for the hypothesis tests.
-4. Open the Excel workbook in the Dashboard folder, or load it into Power BI (Get data > Excel workbook).
+1. In SQL Server create a database called KwasuSurveyDB and import `Data/survey_responses.csv` as `dbo.survey_responses` (Tasks > Import Flat File).
+2. Run the scripts in the Scripts folder:
+   * dim_students.sql
+   * fact_prevalence.sql
+   * fact_misinformation_types.sql
+   * fact_impact.sql
+   * fact_solutions.sql
+3. Load the query results into Power BI (Get data > SQL Server) to build the dashboard.
+4. Run `Statistical Analysis/t_tests.py`. It reads from SQL Server, or from the CSV if SQL Server is not set up, and saves the results to t_test_results.csv, scores_by_level.csv.
+
 
 Researcher and analyst: Daniel Oluwaseun David. The data is anonymised, students are identified only by a number.
