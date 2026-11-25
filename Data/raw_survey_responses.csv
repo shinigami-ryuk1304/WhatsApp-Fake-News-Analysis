@@ -1,0 +1,401 @@
+Respondent ID,Gender,Age Range,Faculty,Department,Level,Owns Smartphone,Uses WhatsApp,B1,B2,B3,B4,B5,B6,B7,C1_Type_1,C1_Type_2,C1_Type_3,C1_Type_4,C1_Type_5,C1_Type_6,C1_Type_7,C2_Q8,C2_Q9,C2_Q10,C2_Q11,D1,D2,D3,D4,D5,D6,D7,E1,E2,E3,E4,E5,E6,E7
+1,Male,16–20,Management Sciences,Computer Science,300,Yes,Yes,4,1,1,2,3,3,4,1,1,0,1,1,1,0,4,3,5,3,4,5,5,3,3,2,1,4,5,4,3,5,5,5
+2,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,3,5,4,5,4,4,1,1,1,1,1,1,0,1,2,2,5,4,3,4,1,4,3,2,2,4,5,4,5,4,5,4
+3,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,5,4,4,3,4,4,1,1,1,0,1,0,0,1,4,5,4,2,5,4,5,1,3,2,4,4,4,5,3,5,4
+4,Male,16–20,Management Sciences,Computer Science,300,Yes,Yes,4,3,3,5,5,5,5,1,1,1,0,1,0,1,3,2,2,4,5,3,4,4,5,4,1,4,5,4,4,5,2,4
+5,Male,21–25,ICT,Mass Communication,200,Yes,Yes,3,5,5,2,5,2,5,1,0,1,1,1,1,1,2,5,2,3,3,5,5,4,3,4,3,4,4,5,4,5,2,4
+6,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,5,3,5,3,3,4,0,1,1,0,1,1,1,4,3,3,4,4,3,2,3,4,4,4,5,3,1,4,4,3,5
+7,Female,26–30,Pure and Applied Sciences,Physics,400,Yes,Yes,4,5,4,5,4,5,4,1,1,1,1,1,1,1,4,3,3,2,3,2,2,3,1,3,5,5,2,3,5,5,5,5
+8,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,5,4,4,4,4,5,0,1,1,1,0,1,1,2,1,4,2,3,5,5,3,4,3,2,5,5,5,5,4,5,4
+9,Female,16–20,Social Sciences,Accounting,400,Yes,Yes,5,4,5,5,3,4,5,1,1,1,1,1,1,1,3,3,2,3,5,5,2,4,3,4,4,4,4,5,5,5,3,4
+10,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,3,3,1,5,5,4,1,1,0,1,0,1,1,3,3,2,5,2,3,2,4,4,4,3,2,4,3,5,4,4,5
+11,Male,21–25,ICT,Mass Communication,100,Yes,Yes,2,2,4,5,3,4,5,1,0,1,1,1,0,1,2,3,4,4,2,5,5,4,5,4,4,4,3,3,5,5,5,2
+12,Female,26–30,Humanities,Others,400,Yes,Yes,4,4,2,2,4,4,5,0,1,1,0,1,1,1,4,3,4,3,3,3,3,5,5,3,3,1,4,5,3,5,5,5
+13,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,4,4,2,5,3,2,0,1,1,1,0,1,1,5,4,5,3,2,2,3,4,2,3,5,5,5,4,3,5,4,5
+14,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,4,5,1,5,5,2,0,1,1,0,1,1,0,5,4,3,1,4,1,4,5,2,2,1,3,5,5,3,2,4,2
+15,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,4,4,3,2,4,2,1,1,1,0,1,1,0,3,3,4,1,4,2,3,4,5,3,4,4,4,5,5,5,5,4
+16,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,4,4,3,5,5,4,1,1,1,1,1,1,1,3,4,1,4,3,5,3,1,4,2,3,3,3,5,5,5,5,5
+17,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,5,5,5,4,4,2,5,0,0,1,1,1,1,1,4,1,5,3,5,5,3,4,3,3,5,3,5,4,5,4,3,5
+18,Female,31 and above,Agriculture,Others,500,Yes,Yes,4,3,3,1,4,5,4,0,1,1,1,0,0,1,3,2,4,3,4,3,5,5,4,4,4,5,5,4,4,5,5,2
+19,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,3,5,4,1,5,5,5,0,1,1,1,1,1,0,1,3,5,4,4,5,3,4,1,5,4,3,5,5,5,2,1,1
+20,Female,31 and above,Agriculture,Others,500,Yes,Yes,5,3,4,5,5,3,4,0,1,1,1,1,0,1,1,5,4,3,5,5,4,5,3,3,4,4,2,4,4,5,4,5
+21,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,5,2,5,5,5,5,1,1,1,1,1,0,1,1,2,2,2,2,2,4,4,2,3,4,4,4,4,5,4,5,4
+22,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,5,3,2,5,1,4,1,1,1,1,1,1,1,2,5,4,1,2,3,3,5,2,3,4,4,3,4,2,5,5,3
+23,Female,31 and above,Agriculture,Others,500,Yes,No,5,3,2,4,3,4,4,1,0,1,1,1,1,0,4,3,3,3,2,5,5,3,4,1,5,3,5,2,4,3,4,4
+24,Female,16–20,Social Sciences,Accounting,400,Yes,Yes,5,3,4,2,5,1,5,1,1,1,1,1,1,1,5,1,4,3,4,3,5,4,4,5,5,5,4,3,3,4,4,5
+25,Male,21–25,ICT,Mass Communication,100,Yes,Yes,2,4,5,4,5,4,3,1,0,1,1,1,0,1,4,3,2,1,3,5,5,4,5,4,3,5,5,5,4,5,5,3
+26,Female,31 and above,Agriculture,Others,500,No,No,3,3,3,5,3,4,5,1,0,1,1,0,1,0,4,4,4,2,3,1,4,5,2,4,2,3,4,4,5,5,5,5
+27,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,5,5,5,4,5,2,1,1,1,1,1,1,1,3,5,4,2,2,4,2,3,5,3,4,5,5,4,5,4,5,4
+28,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,2,3,4,4,5,2,5,0,1,1,1,1,1,1,3,1,2,2,3,3,2,2,2,2,3,5,4,4,2,3,4,5
+29,Female,16–20,Social Sciences,Accounting,400,Yes,Yes,4,4,3,2,3,4,4,1,1,1,1,1,1,1,3,3,2,5,5,5,5,5,1,5,5,3,3,3,1,5,4,5
+30,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,4,4,5,4,4,4,0,1,1,1,1,1,1,1,5,5,5,3,5,4,5,4,2,4,4,3,2,4,4,4,4
+31,Female,31 and above,Agriculture,Others,500,No,No,5,3,1,5,5,4,4,1,0,1,1,1,1,0,2,5,5,2,4,5,2,5,3,2,4,4,5,4,2,4,5,3
+32,Male,21–25,Management Sciences,Computer Science,300,Yes,Yes,5,5,5,4,4,2,2,1,0,1,1,1,1,1,3,4,4,3,1,2,5,2,2,5,1,5,5,4,4,5,5,4
+33,Female,16–20,Social Sciences,Accounting,400,Yes,Yes,5,2,5,5,3,4,5,1,1,0,1,1,1,1,3,5,1,3,3,3,3,4,1,2,2,4,5,4,5,2,5,2
+34,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,4,5,4,3,5,2,0,1,0,1,1,1,1,3,3,4,5,4,3,3,3,4,2,4,5,3,5,4,4,4,5
+35,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,2,4,2,4,5,2,2,1,0,1,1,0,1,1,4,3,1,3,4,4,4,3,3,3,5,2,5,2,4,4,4,4
+36,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,4,5,4,3,5,4,0,0,1,1,1,1,1,4,3,3,3,3,5,4,4,5,5,3,4,4,5,5,4,3,4
+37,Male,21–25,ICT,Mass Communication,200,Yes,Yes,3,3,5,5,5,3,5,1,1,1,1,1,1,1,4,3,5,4,4,4,2,5,5,3,2,3,4,5,4,3,4,4
+38,Female,26–30,Humanities,English,400,Yes,Yes,5,2,5,4,5,5,3,1,1,0,1,0,1,1,2,3,2,2,1,5,1,3,3,3,4,5,4,1,5,5,1,4
+39,Male,21–25,ICT,Mass Communication,300,Yes,Yes,2,5,4,4,3,1,5,0,1,1,1,1,0,1,3,2,5,4,3,3,2,5,2,3,2,5,4,4,4,2,2,4
+40,Male,21–25,ICT,Mass Communication,200,Yes,Yes,2,1,3,2,3,4,5,0,0,1,1,0,1,1,3,2,4,3,4,3,4,4,2,1,3,4,2,5,5,4,5,5
+41,Female,31 and above,Agriculture,Others,500,Yes,Yes,5,5,5,5,5,4,5,1,1,0,1,1,1,1,2,3,3,4,1,2,5,3,3,3,3,4,5,5,2,4,5,5
+42,Male,21–25,ICT,Mass Communication,100,Yes,Yes,2,5,5,4,5,3,5,1,1,1,1,1,1,1,3,3,3,3,3,4,3,1,4,3,5,3,5,5,3,5,4,5
+43,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,5,5,5,4,4,4,0,1,1,1,1,1,0,2,1,5,4,3,4,5,3,1,5,5,5,4,2,2,4,3,5
+44,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,2,5,4,5,4,5,1,1,1,0,0,1,0,5,1,4,3,2,5,4,4,4,3,5,5,3,5,2,4,4,5
+45,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,4,2,5,4,3,4,0,0,0,1,1,1,1,2,2,4,2,3,5,4,3,4,4,4,5,5,3,5,5,5,4
+46,Female,31 and above,Agriculture,Others,500,Yes,Yes,2,2,5,4,1,5,4,0,1,0,1,1,0,1,4,1,5,4,5,3,5,4,5,4,4,4,5,5,2,1,4,5
+47,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,4,5,5,3,5,3,1,0,1,1,1,1,1,3,3,3,3,5,4,2,3,4,1,4,4,4,3,1,5,4,5
+48,Male,21–25,ICT,Computer Science,300,Yes,Yes,5,3,3,1,4,5,5,1,1,1,0,1,1,1,3,3,3,3,5,3,2,2,4,1,2,4,1,5,3,5,3,5
+49,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,5,1,4,1,4,4,0,1,1,1,1,0,0,4,3,4,3,2,5,2,2,3,5,5,4,3,5,5,2,5,4
+50,Male,21–25,ICT,Computer Science,300,Yes,Yes,3,4,4,1,5,4,2,1,1,1,1,1,1,1,5,3,5,3,2,2,4,3,5,3,3,1,5,1,5,4,3,2
+51,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,2,5,3,5,5,5,1,0,0,1,1,0,1,2,3,3,4,4,3,3,4,3,5,5,2,5,5,1,2,5,1
+52,Female,26–30,Pure and Applied Sciences,Physics,400,Yes,Yes,4,2,4,3,5,4,3,1,0,0,1,1,1,1,3,2,5,4,4,3,4,3,2,4,2,2,2,5,4,4,4,5
+53,Female,26–30,Humanities,English,400,Yes,Yes,5,5,2,4,5,5,4,1,1,0,0,1,1,1,5,5,4,4,5,3,2,2,4,4,3,5,4,4,4,3,2,4
+54,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,4,4,5,5,2,4,1,1,0,0,0,1,1,3,5,3,2,4,4,5,3,4,4,3,5,4,3,4,3,3,3
+55,Female,31 and above,Agriculture,Others,500,Yes,Yes,4,5,5,2,5,5,4,1,1,1,1,1,1,0,3,3,2,4,4,4,5,5,5,4,5,4,4,2,5,4,5,3
+56,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,4,5,5,5,5,5,1,1,0,1,0,0,1,4,4,3,4,3,5,3,3,5,3,4,4,4,5,5,4,4,4
+57,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,5,5,3,2,5,1,4,1,1,1,1,1,1,1,3,4,2,3,4,4,3,3,5,3,2,5,5,4,5,4,5,4
+58,Male,21–25,ICT,Computer Science,300,Yes,Yes,5,5,4,5,5,5,1,0,1,1,1,1,1,1,3,5,5,3,5,5,3,4,5,3,4,5,5,5,5,5,5,3
+59,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,4,4,1,5,3,5,1,0,0,1,1,1,1,4,2,1,4,3,4,4,5,4,3,2,5,5,5,4,4,5,4
+60,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,5,4,5,5,5,4,1,0,1,1,1,0,1,1,2,3,5,3,4,5,5,4,3,4,5,5,5,2,4,5,3
+61,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,4,4,2,3,5,2,1,0,1,1,1,1,0,1,4,3,3,4,1,3,3,4,3,5,4,5,2,4,5,5,4
+62,Female,16–20,Pure and Applied Sciences,Business Administration,400,Yes,Yes,4,3,4,5,5,5,5,1,1,1,1,1,1,1,4,3,2,5,3,5,4,3,4,3,4,3,4,4,4,5,4,3
+63,Female,16–20,Social Sciences,Accounting,300,Yes,Yes,5,5,2,5,5,3,4,1,1,1,1,1,1,1,2,3,3,5,2,4,4,3,5,4,4,3,1,3,5,2,5,5
+64,Male,21–25,ICT,Mass Communication,200,Yes,Yes,1,4,1,3,3,3,5,1,1,1,0,1,1,1,2,1,2,3,3,4,2,1,2,5,5,3,5,3,3,5,4,5
+65,Male,21–25,ICT,Mass Communication,200,Yes,Yes,2,2,1,2,3,1,3,1,1,0,1,1,1,1,4,2,2,5,5,4,4,2,5,5,4,5,4,4,3,5,5,4
+66,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,5,5,4,1,5,4,1,1,1,0,1,1,1,3,4,2,2,5,4,3,5,3,3,3,4,4,5,5,4,2,2
+67,Female,26–30,Humanities,English,400,Yes,Yes,3,4,5,5,2,5,4,1,0,0,1,1,1,1,5,3,3,5,2,4,5,5,4,2,4,2,5,5,1,5,5,3
+68,Female,16–20,Social Sciences,Accounting,400,Yes,Yes,5,5,1,5,4,4,4,1,1,1,0,1,0,1,1,2,4,4,2,2,3,5,4,5,2,4,5,3,3,5,3,5
+69,Female,31 and above,Agriculture,Others,500,No,No,1,3,4,4,5,3,5,1,1,1,0,1,0,1,3,4,1,4,4,5,3,3,5,2,5,5,3,5,5,5,5,4
+70,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,3,4,5,4,4,5,1,1,1,1,1,1,1,4,3,2,4,4,3,5,2,4,4,1,5,4,5,4,4,5,5
+71,Female,26–30,Pure and Applied Sciences,Physics,400,Yes,Yes,5,4,5,4,4,5,4,1,1,1,1,0,0,0,2,3,4,2,5,4,4,2,2,5,1,5,5,5,4,5,5,5
+72,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,4,5,5,5,4,5,1,1,1,1,1,1,1,3,5,1,3,3,1,5,4,5,4,2,4,2,4,5,5,2,4
+73,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,3,3,5,5,4,2,1,1,1,0,1,1,0,5,4,1,3,5,5,5,3,4,3,5,4,5,4,5,4,3,3
+74,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,3,4,2,4,3,5,0,1,1,1,1,1,1,3,3,4,5,5,2,5,4,3,5,4,5,5,4,5,4,5,4
+75,Female,31 and above,Agriculture,Others,500,Yes,Yes,4,5,1,5,4,1,3,1,1,1,1,1,1,1,5,1,3,5,2,4,2,4,5,3,3,5,5,5,2,4,5,4
+76,Female,16–20,Management Sciences,Accounting,300,Yes,Yes,3,3,1,5,5,5,5,1,0,1,1,1,1,1,1,3,4,3,3,5,3,5,4,4,5,1,5,5,5,4,4,4
+77,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,2,5,5,4,2,5,4,1,1,0,1,1,1,1,1,2,2,3,5,4,4,3,4,5,5,5,5,3,5,5,2,3
+78,Female,26–30,Agriculture,Others,500,Yes,Yes,5,4,4,3,5,3,5,1,1,1,1,1,1,1,4,2,4,5,5,2,5,3,5,3,4,5,4,3,5,5,5,3
+79,Male,21–25,ICT,Computer Science,300,Yes,Yes,4,3,3,2,5,3,5,1,1,1,1,1,1,1,3,3,4,5,3,3,1,3,2,3,4,5,3,3,4,3,5,5
+80,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,5,4,5,5,4,4,2,1,1,1,1,1,0,1,4,4,3,3,2,3,5,2,1,3,4,4,5,4,3,5,3,5
+81,Male,21–25,ICT,Mass Communication,100,Yes,Yes,3,5,5,5,1,5,5,1,1,0,1,1,0,0,5,2,3,2,4,5,4,2,3,5,4,5,4,5,3,2,1,5
+82,Male,21–25,ICT,Mass Communication,100,Yes,Yes,1,5,4,5,5,5,2,1,1,1,0,0,1,0,1,3,4,3,3,3,3,4,2,4,2,5,5,5,3,5,4,3
+83,Male,16–20,Management Sciences,Computer Science,300,Yes,Yes,5,5,5,3,4,1,3,0,1,1,1,0,1,1,5,5,3,4,4,5,3,4,4,5,2,4,5,5,4,5,5,5
+84,Female,16–20,Management Sciences,Accounting,300,Yes,Yes,4,5,5,5,4,5,5,0,1,1,1,1,0,1,2,5,1,3,4,3,4,5,5,1,4,1,4,4,4,5,4,5
+85,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,5,4,4,4,5,4,2,1,0,1,1,1,1,1,5,2,4,5,5,3,4,3,3,2,3,5,5,2,5,1,1,2
+86,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,5,5,3,4,4,4,1,1,1,0,0,1,0,2,5,4,5,4,4,4,4,4,2,5,4,3,4,5,5,2,2
+87,Female,16–20,Management Sciences,Accounting,300,Yes,Yes,3,4,3,3,2,5,1,1,0,1,1,1,1,1,3,3,3,2,3,4,5,4,3,4,5,5,4,4,5,3,4,2
+88,Female,16–20,Pure and Applied Sciences,Political Science,400,Yes,Yes,5,5,2,4,5,5,2,1,0,1,0,1,1,1,4,2,3,2,5,4,3,4,2,4,4,5,5,5,4,4,5,4
+89,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,4,5,4,4,5,5,1,1,1,1,1,1,1,3,4,3,3,5,3,4,4,5,5,4,3,2,5,3,4,5,2
+90,Male,21–25,ICT,Mass Communication,200,Yes,Yes,3,5,5,2,3,4,5,0,1,1,1,1,1,1,3,5,4,3,5,4,1,5,4,4,3,4,4,4,4,3,5,5
+91,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,4,4,1,5,3,4,2,1,1,1,1,1,1,1,5,3,3,3,1,5,4,3,2,1,3,5,4,5,5,5,5,4
+92,Female,26–30,Humanities,Physics,400,Yes,Yes,3,4,2,4,5,5,4,1,1,1,1,1,0,0,3,3,4,2,3,4,3,2,3,3,3,3,5,5,4,5,5,5
+93,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,4,5,5,3,4,3,1,1,1,1,1,1,1,4,2,4,2,5,5,2,2,4,4,3,1,5,3,1,4,2,2
+94,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,5,5,3,3,5,5,3,1,1,1,1,1,1,1,1,5,3,3,3,5,5,2,3,4,5,2,5,3,2,3,5,5
+95,Male,21–25,ICT,Computer Science,300,Yes,Yes,3,4,4,5,5,1,5,0,1,1,1,1,1,1,5,2,5,4,3,4,2,4,2,5,1,4,4,4,5,4,5,5
+96,Female,26–30,Pure and Applied Sciences,Political Science,400,Yes,Yes,1,4,4,5,2,4,3,1,1,1,0,1,0,1,1,1,3,5,5,3,4,4,3,5,2,4,4,3,4,5,1,2
+97,Female,31 and above,Agriculture,Others,500,Yes,Yes,4,2,4,4,5,5,5,0,1,1,1,1,1,1,2,3,3,3,5,2,4,5,3,3,4,5,5,4,4,2,2,4
+98,Female,31 and above,Agriculture,Others,500,Yes,Yes,4,5,2,4,5,5,2,1,0,0,1,1,1,0,4,2,4,4,5,4,3,3,4,4,4,4,5,5,5,5,4,5
+99,Female,16–20,Management Sciences,Accounting,300,Yes,Yes,5,4,5,4,5,2,5,1,1,0,1,1,1,1,3,5,3,1,3,3,4,3,5,2,3,5,4,4,4,4,3,4
+100,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,5,5,3,3,5,5,1,1,1,0,1,1,1,4,5,1,2,5,2,3,4,1,4,2,3,3,5,5,4,4,4
+101,Female,16–20,Management Sciences,Accounting,300,Yes,Yes,5,5,5,5,4,5,5,1,0,1,1,1,1,0,2,4,1,3,5,4,5,2,5,4,1,4,2,2,3,4,4,4
+102,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,1,5,4,4,5,5,0,0,1,1,1,1,1,4,3,2,2,5,4,4,2,4,3,3,4,4,5,5,5,4,3
+103,Male,21–25,ICT,Mass Communication,100,Yes,Yes,3,4,4,3,4,4,5,0,0,0,1,0,1,1,5,2,4,4,2,2,4,4,4,5,1,4,3,4,4,2,4,4
+104,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,5,5,4,4,1,2,0,1,1,1,1,0,0,2,4,2,1,5,3,2,5,2,5,5,5,5,5,3,5,4,2
+105,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,5,4,5,2,5,5,0,1,1,1,1,0,1,4,3,1,5,5,4,4,3,4,3,5,5,4,4,3,5,4,5
+106,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,5,5,5,5,4,4,1,1,1,0,1,0,1,4,3,3,4,5,5,4,5,4,5,2,5,5,2,4,5,5,5
+107,Male,21–25,ICT,Mass Communication,100,Yes,Yes,2,5,5,1,4,4,4,1,1,1,1,1,1,1,3,3,3,2,2,4,5,5,5,5,3,4,4,4,5,4,4,5
+108,Male,21–25,ICT,Mass Communication,200,Yes,Yes,2,5,3,3,5,4,5,1,1,1,1,1,1,1,4,3,1,2,2,4,5,3,3,5,5,3,4,5,4,5,5,5
+109,Female,26–30,Humanities,English,400,Yes,Yes,3,4,4,4,3,5,2,1,1,1,1,1,1,1,2,5,3,2,4,3,3,3,3,5,1,5,5,5,5,5,4,5
+110,Female,26–30,Humanities,English,400,Yes,Yes,5,5,4,4,5,4,4,0,1,1,0,0,1,1,4,1,3,5,5,4,5,1,3,5,3,5,5,5,2,5,3,3
+111,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,3,5,4,5,4,4,1,1,0,1,1,1,1,4,4,3,2,4,5,4,5,5,3,4,4,5,5,5,4,4,5
+112,Female,31 and above,Agriculture,Others,500,Yes,Yes,5,3,5,4,3,5,5,1,1,0,1,1,1,1,3,4,4,2,4,4,5,5,1,3,1,5,3,3,4,4,5,5
+113,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,3,5,4,4,5,1,4,1,1,0,1,0,1,0,2,4,1,3,2,5,3,4,4,3,5,5,5,5,5,4,4,4
+114,Female,31 and above,Agriculture,Others,500,Yes,Yes,5,5,1,5,5,4,2,1,1,1,1,1,1,1,3,4,4,4,2,5,4,3,2,3,5,5,3,4,4,5,5,5
+115,Female,16–20,Pure and Applied Sciences,Business Administration,400,Yes,Yes,5,2,5,1,5,5,4,0,0,1,1,1,1,0,4,5,1,3,4,4,2,4,3,5,4,5,3,4,5,4,5,5
+116,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,4,5,5,2,5,5,1,0,1,1,1,1,1,1,4,2,5,3,4,2,4,1,4,3,4,3,5,4,4,5,4
+117,Male,21–25,ICT,Mass Communication,200,Yes,Yes,2,5,5,5,5,4,5,1,1,0,1,0,1,1,2,4,3,4,5,2,4,5,5,3,5,3,5,4,5,4,5,2
+118,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,5,5,2,5,3,5,5,0,1,1,1,1,0,1,3,3,1,3,4,2,3,5,3,4,2,4,4,5,5,1,5,4
+119,Female,16–20,Pure and Applied Sciences,Political Science,400,Yes,Yes,1,4,2,4,2,5,5,1,1,0,0,1,0,1,5,2,3,5,5,3,4,1,3,4,3,4,4,5,5,5,1,3
+120,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,5,5,3,5,5,4,5,1,0,1,1,1,1,1,1,2,3,2,5,4,2,2,3,5,5,5,4,5,4,4,4,5
+121,Male,21–25,ICT,Mass Communication,300,Yes,Yes,1,4,5,3,5,4,3,1,1,0,1,1,1,0,5,3,2,3,4,5,5,2,4,4,1,5,4,3,4,3,4,2
+122,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,5,5,4,4,5,1,1,0,1,1,1,1,0,3,3,4,2,5,3,4,2,3,4,3,3,4,4,5,4,5,5
+123,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,5,5,4,2,5,4,1,1,1,1,1,1,1,2,3,5,4,5,2,2,5,2,2,3,5,4,2,4,3,5,2
+124,Female,26–30,Humanities,English,400,Yes,Yes,5,4,5,4,5,3,5,1,0,1,1,0,0,1,1,3,3,5,3,4,2,3,1,5,3,4,4,4,4,4,3,4
+125,Male,21–25,ICT,Mass Communication,100,Yes,Yes,3,4,5,4,5,5,4,1,0,1,1,1,1,1,4,4,2,3,3,2,3,4,4,3,3,5,5,5,4,4,5,4
+126,Male,21–25,ICT,Computer Science,300,Yes,Yes,5,4,5,5,1,4,4,1,1,1,1,1,1,1,2,4,3,3,5,3,1,2,3,4,3,5,5,3,5,5,2,3
+127,Female,26–30,Humanities,English,400,Yes,Yes,4,5,5,5,4,2,5,1,1,1,0,1,1,1,4,3,3,3,2,3,5,4,3,4,2,5,4,5,4,4,2,5
+128,Female,26–30,Humanities,Physics,400,Yes,Yes,5,4,4,5,3,5,2,0,0,1,1,0,1,1,4,4,4,1,4,5,4,2,3,4,2,4,5,3,2,5,5,5
+129,Male,21–25,ICT,Computer Science,300,Yes,Yes,5,4,4,4,5,5,4,1,0,1,1,1,1,1,4,1,2,2,5,4,4,3,4,5,5,1,4,5,3,5,4,5
+130,Female,16–20,Management Sciences,Accounting,300,Yes,Yes,5,5,4,4,4,4,5,1,0,1,1,0,1,1,2,3,3,4,2,2,4,3,4,2,2,5,5,4,5,4,5,5
+131,Female,26–30,Pure and Applied Sciences,Political Science,400,Yes,Yes,3,3,4,5,5,2,1,1,1,1,1,1,1,0,1,3,5,4,4,4,3,3,4,4,1,5,5,2,5,3,4,5
+132,Male,21–25,ICT,Mass Communication,200,Yes,Yes,2,3,3,5,5,5,4,0,0,1,1,0,1,0,3,4,2,2,3,4,3,4,3,5,5,3,3,5,4,5,5,2
+133,Female,16–20,Social Sciences,Accounting,300,Yes,Yes,4,5,5,5,4,5,4,1,0,1,0,0,1,1,4,3,4,4,4,4,5,2,5,5,2,4,4,5,3,2,5,5
+134,Male,21–25,ICT,Computer Science,300,Yes,Yes,5,5,3,2,4,3,4,1,1,1,0,1,1,0,3,3,2,2,4,1,2,2,5,5,3,5,4,4,5,5,5,4
+135,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,3,2,2,5,5,5,1,1,1,1,0,1,0,3,2,2,4,5,4,3,2,5,5,3,4,5,2,5,4,4,3
+136,Male,21–25,Management Sciences,Computer Science,300,Yes,Yes,3,5,4,4,4,5,2,1,0,1,1,0,1,1,2,3,4,4,4,2,3,3,2,2,5,4,5,4,5,4,5,5
+137,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,5,4,4,5,4,5,3,1,1,1,1,1,1,1,4,3,1,4,2,2,5,2,1,4,3,4,4,4,3,3,5,4
+138,Female,16–20,Social Sciences,Accounting,400,Yes,Yes,2,3,4,4,3,5,5,1,1,1,1,0,1,1,4,4,2,3,1,3,5,5,3,5,2,3,3,3,4,5,3,5
+139,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,4,5,5,2,3,5,5,1,1,1,0,1,1,1,3,4,5,2,5,2,4,4,1,4,4,2,5,2,4,5,5,5
+140,Female,26–30,Pure and Applied Sciences,Political Science,400,Yes,Yes,5,3,5,2,4,5,5,1,1,1,1,1,1,1,3,5,5,4,5,4,3,4,5,5,3,4,4,4,4,1,4,3
+141,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,4,5,4,5,3,4,1,1,1,1,1,1,1,3,1,3,1,4,5,2,4,4,4,4,2,4,5,4,4,5,5
+142,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,2,5,3,2,3,5,0,0,1,0,1,1,1,2,4,5,4,5,5,5,3,5,4,4,2,5,3,4,2,5,5
+143,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,4,4,5,5,4,5,4,0,0,1,1,1,1,1,4,3,2,2,5,3,5,4,5,3,5,5,5,4,5,4,4,5
+144,Male,21–25,ICT,Mass Communication,200,Yes,Yes,2,4,5,4,5,5,3,1,1,1,1,0,1,1,4,3,4,5,5,3,2,5,2,5,4,4,4,5,3,5,5,5
+145,Male,16–20,Management Sciences,Computer Science,300,Yes,Yes,5,5,4,4,3,4,5,1,0,1,1,1,1,1,3,3,5,4,4,4,5,3,4,3,3,4,4,3,5,5,5,4
+146,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,4,5,3,5,5,2,1,1,1,1,1,0,1,1,4,2,2,4,5,5,4,5,5,5,4,4,3,4,5,5,5,5
+147,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,5,4,5,1,5,5,1,1,1,1,1,0,1,4,3,5,3,1,5,5,5,3,4,3,3,3,4,4,5,5,3
+148,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,5,4,5,3,4,5,1,1,0,1,1,1,0,3,1,3,4,5,4,3,3,4,4,3,5,4,5,4,4,5,4
+149,Male,21–25,ICT,Computer Science,300,Yes,Yes,5,3,5,3,5,5,5,1,1,0,1,0,1,1,2,2,4,4,2,3,4,3,3,1,4,5,5,3,4,4,3,2
+150,Female,26–30,Humanities,Others,500,Yes,Yes,5,5,1,3,5,4,3,1,1,1,1,1,1,1,3,4,3,1,5,3,2,4,3,4,3,3,4,4,4,2,3,4
+151,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,3,5,3,5,5,4,0,1,0,1,1,1,1,4,2,3,4,5,4,5,3,2,4,5,3,1,3,4,5,4,5
+152,Female,26–30,Humanities,Physics,400,Yes,Yes,5,2,4,2,5,5,2,1,1,1,0,0,1,1,3,3,1,5,2,5,4,4,4,3,1,4,1,3,4,4,5,5
+153,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,5,3,5,5,4,3,5,1,1,0,0,0,1,1,3,5,4,3,5,4,3,2,4,2,3,4,5,4,4,4,4,5
+154,Male,21–25,ICT,Mass Communication,200,Yes,Yes,1,1,4,2,5,3,4,1,1,1,1,1,1,0,1,5,1,4,4,4,4,2,5,4,3,4,5,5,5,3,5,4
+155,Male,21–25,ICT,Mass Communication,100,Yes,Yes,2,2,1,4,3,4,5,0,1,0,1,1,1,1,4,3,4,4,3,4,5,5,4,1,5,2,3,3,4,4,3,4
+156,Male,21–25,Management Sciences,Computer Science,300,Yes,Yes,4,4,4,5,5,5,4,1,0,1,1,1,0,1,4,3,2,4,4,2,4,4,4,5,4,3,4,5,4,4,5,5
+157,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,2,4,5,3,4,4,1,1,1,1,1,0,1,4,2,4,3,2,3,2,3,5,4,3,5,5,4,2,5,5,4
+158,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,5,4,2,4,5,5,0,1,1,1,1,1,0,4,5,3,4,5,3,3,4,5,2,3,4,4,4,4,5,4,2
+159,Female,26–30,Pure and Applied Sciences,Political Science,400,Yes,Yes,1,5,5,5,5,5,5,1,0,1,1,1,1,1,4,2,3,3,3,4,4,4,3,5,4,1,5,5,3,4,3,4
+160,Female,31 and above,Agriculture,Others,500,No,No,3,4,4,5,4,4,4,1,1,1,1,1,1,1,5,2,4,4,4,5,4,5,2,4,3,5,5,3,5,3,2,4
+161,Female,31 and above,Agriculture,Others,500,Yes,Yes,5,2,3,4,4,5,5,0,1,1,1,1,1,1,4,2,3,1,4,3,3,4,3,4,5,5,4,5,3,4,3,5
+162,Male,16–20,Management Sciences,Computer Science,300,Yes,Yes,5,5,1,5,5,4,5,1,1,1,1,1,0,1,2,2,1,3,3,5,3,3,2,1,4,4,5,2,4,4,5,5
+163,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,5,5,4,3,4,2,5,1,1,1,1,1,1,0,5,3,3,2,3,4,4,5,3,3,4,5,3,4,5,5,2,5
+164,Male,21–25,ICT,Computer Science,300,Yes,Yes,3,5,4,4,4,4,2,1,1,0,1,1,1,1,3,4,2,5,4,4,4,4,5,3,3,5,3,5,5,1,3,5
+165,Female,26–30,Humanities,English,400,Yes,Yes,3,4,5,5,2,2,5,1,0,1,1,1,1,1,3,2,3,3,3,4,4,3,5,2,2,2,3,2,3,5,5,5
+166,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,5,3,5,5,5,1,1,0,1,1,0,1,1,3,4,4,4,2,3,5,4,3,4,1,5,5,5,4,5,3,3
+167,Female,31 and above,Agriculture,Others,500,Yes,Yes,4,3,4,4,4,2,5,0,1,1,0,0,0,1,1,1,3,4,5,2,3,4,1,2,2,5,3,4,4,5,5,4
+168,Male,21–25,ICT,Computer Science,300,Yes,Yes,4,1,4,3,4,5,5,1,1,1,0,1,1,1,1,3,2,5,1,1,3,4,5,4,4,3,4,5,4,5,4,3
+169,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,4,5,5,4,3,4,1,1,1,1,1,1,1,2,5,4,3,3,5,4,4,4,5,4,5,3,4,5,5,5,2
+170,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,4,1,5,4,5,5,1,1,1,1,0,1,1,1,1,4,3,4,4,3,5,3,3,3,4,4,3,4,4,5,2,4
+171,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,5,5,2,4,5,3,1,1,1,0,1,1,0,2,4,1,5,3,3,5,3,5,5,2,5,1,5,5,5,5,5
+172,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,1,3,3,1,4,4,1,0,1,1,1,1,1,5,3,3,3,3,2,5,2,4,2,2,4,3,4,2,4,4,5
+173,Male,21–25,ICT,Mass Communication,200,Yes,Yes,3,5,5,2,4,3,2,0,1,1,0,1,1,1,4,4,5,5,2,4,4,2,3,3,5,4,4,2,3,5,2,5
+174,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,4,3,5,1,4,4,1,1,1,0,0,1,1,4,5,4,5,4,3,2,2,3,2,5,1,5,3,5,4,3,5
+175,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,5,5,2,3,5,4,1,1,1,1,0,1,1,4,5,3,4,2,5,4,4,4,1,4,4,1,4,4,3,5,5
+176,Female,26–30,Pure and Applied Sciences,Physics,400,Yes,Yes,2,5,3,5,3,4,2,1,1,1,1,1,1,1,1,3,5,5,4,3,3,4,3,4,3,5,3,5,4,5,5,4
+177,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,3,5,3,2,5,5,1,0,1,1,1,0,1,3,3,3,5,4,4,3,5,3,3,2,4,3,5,3,4,5,4
+178,Female,16–20,Management Sciences,Accounting,300,Yes,Yes,4,2,3,4,1,4,3,1,0,0,0,1,0,1,2,1,2,4,5,3,3,3,5,2,5,4,4,5,4,3,5,5
+179,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,5,2,4,4,4,2,1,0,1,1,0,1,1,2,4,5,5,3,4,4,5,4,4,3,4,5,5,4,4,3,5
+180,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,4,1,2,5,5,5,1,0,0,1,1,1,1,1,3,3,1,4,2,4,3,2,3,2,5,5,5,4,5,3,5
+181,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,5,4,5,5,5,4,0,0,1,0,1,1,0,1,3,3,2,3,5,3,2,4,2,4,4,4,2,4,5,3,3
+182,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,5,2,4,5,4,4,0,1,0,1,0,0,1,3,4,2,2,4,2,5,3,5,5,4,4,4,2,2,4,5,5
+183,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,5,4,5,5,3,4,1,1,1,1,1,0,1,1,3,3,3,2,5,3,4,3,5,4,5,4,4,4,2,3,5
+184,Male,21–25,ICT,Computer Science,300,Yes,Yes,2,4,4,3,4,4,3,1,1,0,1,1,1,1,2,4,2,3,4,4,5,3,3,5,4,5,5,4,5,4,4,4
+185,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,5,5,4,3,5,4,1,0,1,1,1,0,1,2,2,3,4,5,3,2,4,4,5,2,4,5,4,5,3,4,3
+186,Male,16–20,Management Sciences,Computer Science,300,Yes,Yes,5,3,4,2,5,5,5,1,1,1,1,1,1,0,3,2,4,3,4,3,5,3,4,3,4,5,5,5,5,5,5,2
+187,Female,26–30,Pure and Applied Sciences,Physics,400,Yes,Yes,4,4,5,3,4,5,5,1,0,1,1,1,1,0,1,2,4,5,4,2,1,3,2,5,3,5,4,4,4,4,2,5
+188,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,4,4,1,4,2,3,5,1,1,1,0,1,1,1,4,3,1,2,5,3,5,4,4,2,4,4,4,4,4,4,2,3
+189,Female,26–30,Pure and Applied Sciences,Political Science,400,Yes,Yes,5,3,5,3,4,3,3,1,1,0,1,1,0,1,3,3,5,2,5,3,2,4,2,5,1,4,5,4,5,5,2,4
+190,Male,21–25,Management Sciences,Computer Science,300,Yes,Yes,5,2,3,3,1,5,4,1,1,0,1,0,1,1,5,2,5,4,4,2,3,2,3,3,4,5,3,1,5,5,5,5
+191,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,3,2,1,5,5,1,0,1,0,1,1,1,0,5,1,3,4,4,3,1,2,5,1,4,3,5,5,4,4,5,3
+192,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,5,4,5,2,5,1,1,1,0,0,1,1,1,4,3,2,3,2,4,4,4,3,4,5,5,5,2,5,4,5,4
+193,Female,31 and above,Agriculture,Others,500,Yes,Yes,1,4,5,5,5,4,5,1,1,0,0,1,1,0,5,5,4,3,4,5,5,3,4,2,4,2,3,5,5,4,4,3
+194,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,5,3,4,5,5,5,0,1,1,1,1,1,0,2,3,4,3,4,5,2,4,5,5,4,5,5,4,5,5,5,4
+195,Female,26–30,Humanities,Physics,400,Yes,Yes,5,4,5,4,4,2,5,1,1,0,1,1,1,1,1,3,3,4,4,2,4,1,5,4,2,4,5,5,5,4,4,3
+196,Female,26–30,Humanities,English,400,Yes,Yes,4,4,5,5,5,2,4,1,1,0,1,1,1,1,3,1,4,4,4,3,2,5,5,2,5,5,5,3,4,3,3,3
+197,Female,26–30,Humanities,Physics,400,Yes,Yes,4,1,5,3,5,5,4,0,1,1,0,1,0,1,2,3,4,1,1,2,5,4,3,4,4,1,5,4,5,5,5,5
+198,Female,26–30,Humanities,English,400,Yes,Yes,3,1,4,5,5,4,4,1,1,0,1,1,1,1,3,4,4,3,4,5,4,4,3,4,4,5,2,4,3,4,5,4
+199,Female,26–30,Humanities,Physics,400,Yes,Yes,3,2,5,4,4,3,5,1,0,1,1,1,1,1,4,4,4,5,3,5,3,3,5,4,4,5,4,2,3,4,5,4
+200,Female,16–20,Pure and Applied Sciences,Political Science,400,Yes,Yes,4,3,2,4,3,5,5,1,1,1,1,0,1,1,5,4,4,1,2,2,4,5,4,4,4,4,5,4,4,5,3,5
+201,Male,21–25,ICT,Computer Science,300,Yes,Yes,5,4,2,5,4,4,5,1,1,1,1,1,1,1,5,5,3,3,4,5,3,3,5,4,5,5,5,5,5,4,5,5
+202,Male,16–20,Management Sciences,Computer Science,300,Yes,Yes,3,4,2,5,3,5,4,1,1,1,1,1,1,1,1,3,5,3,5,3,3,4,2,5,5,5,2,3,4,3,2,4
+203,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,2,5,5,5,3,2,4,0,1,1,0,1,0,1,2,4,2,5,3,3,5,3,5,3,5,3,5,4,4,4,4,1
+204,Male,16–20,Management Sciences,Computer Science,300,Yes,Yes,4,4,5,4,4,3,4,1,1,0,1,1,1,1,4,2,3,3,4,3,3,2,3,3,2,2,3,4,4,5,4,2
+205,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,2,5,2,3,5,5,4,1,1,1,1,1,0,1,1,3,4,5,4,3,5,5,2,1,5,5,5,3,5,5,5,1
+206,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,2,5,4,3,2,5,1,1,1,1,1,0,0,2,2,2,5,5,2,4,4,5,2,5,4,3,1,5,5,3,5
+207,Male,21–25,ICT,Mass Communication,100,Yes,Yes,2,4,2,4,3,3,2,0,1,1,1,1,1,0,4,4,1,3,1,2,3,5,5,2,3,5,4,4,3,5,4,4
+208,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,5,5,2,4,2,3,1,1,1,1,0,1,0,2,4,2,1,5,3,2,5,2,5,4,5,4,5,4,5,4,4
+209,Female,26–30,Pure and Applied Sciences,Physics,400,Yes,Yes,5,5,5,5,3,5,3,1,1,1,1,1,1,0,2,2,3,3,3,3,4,4,1,4,3,3,5,5,3,4,5,4
+210,Male,21–25,ICT,Computer Science,300,Yes,Yes,5,1,5,5,3,5,3,1,1,1,1,0,0,1,4,4,5,2,3,3,4,5,5,5,4,5,5,4,5,2,4,5
+211,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,3,4,3,4,3,5,5,0,1,1,1,1,1,0,3,2,4,4,4,4,5,3,2,4,4,2,5,5,5,5,5,3
+212,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,2,4,3,3,4,5,0,1,1,1,1,1,1,3,1,3,4,3,5,5,5,3,4,2,4,5,4,4,5,4,5
+213,Male,21–25,ICT,Computer Science,300,Yes,Yes,5,3,5,1,5,5,4,1,1,1,1,1,1,1,4,3,3,3,5,5,5,4,5,4,4,4,5,3,3,5,5,5
+214,Female,26–30,Pure and Applied Sciences,Physics,400,Yes,Yes,5,5,3,5,5,5,5,1,0,1,0,1,1,1,3,4,2,5,4,4,3,3,5,4,4,4,3,5,5,3,5,3
+215,Female,16–20,Pure and Applied Sciences,Business Administration,400,Yes,Yes,4,5,5,5,5,4,2,1,1,0,1,1,1,1,1,2,5,3,4,5,4,4,4,1,4,5,3,5,5,3,1,4
+216,Male,21–25,ICT,Mass Communication,200,Yes,Yes,3,2,5,5,5,5,5,1,1,1,1,1,1,1,2,5,4,5,3,2,5,1,2,4,3,5,3,2,4,3,4,1
+217,Female,26–30,Agriculture,Others,500,Yes,Yes,4,4,1,5,4,2,4,1,0,1,1,1,1,1,4,4,4,3,3,1,4,5,2,4,3,4,3,3,4,2,4,4
+218,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,5,2,5,5,5,3,5,1,0,1,1,1,1,1,4,2,1,2,2,5,2,5,4,4,4,1,3,5,4,4,2,5
+219,Female,31 and above,Agriculture,Others,500,Yes,Yes,2,1,4,5,2,3,5,1,1,1,1,0,1,1,2,4,1,2,5,3,4,3,5,3,3,3,3,5,4,3,4,3
+220,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,2,3,5,2,4,5,4,1,1,1,1,1,0,1,3,2,5,4,2,3,4,4,5,2,4,1,4,5,3,4,4,4
+221,Female,26–30,Humanities,Others,500,Yes,Yes,3,5,5,3,5,5,5,0,1,0,1,1,1,1,3,3,4,3,2,5,2,5,3,2,4,4,2,2,4,3,5,5
+222,Male,21–25,ICT,Computer Science,300,Yes,Yes,4,5,5,4,4,4,5,1,1,0,1,1,1,0,2,5,2,4,5,3,5,3,5,2,5,5,3,2,4,4,4,4
+223,Female,16–20,Social Sciences,Accounting,300,Yes,Yes,5,4,4,5,5,2,5,1,1,1,1,1,1,1,1,3,5,4,1,4,4,3,4,2,1,5,4,3,3,3,1,3
+224,Male,21–25,ICT,Mass Communication,200,Yes,Yes,3,5,3,4,5,2,5,0,0,0,1,0,0,1,3,3,4,3,5,1,5,5,5,3,4,3,1,4,5,4,5,4
+225,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,4,3,5,4,4,5,1,1,1,0,1,1,0,2,2,5,3,5,4,4,2,2,5,4,5,2,3,4,4,5,5
+226,Male,16–20,Management Sciences,Computer Science,300,Yes,Yes,5,4,5,2,4,4,5,0,1,1,0,1,1,1,4,2,3,2,5,5,4,5,4,3,3,5,4,4,5,5,5,4
+227,Male,16–20,Management Sciences,Computer Science,300,Yes,Yes,4,2,5,4,2,3,4,1,0,0,1,1,1,1,2,4,2,1,5,4,4,5,2,5,4,5,4,5,3,3,5,4
+228,Female,31 and above,Agriculture,Others,500,Yes,No,5,5,4,5,4,5,5,1,1,1,1,1,1,1,2,2,3,3,3,5,1,4,3,2,2,2,4,3,3,5,4,4
+229,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,5,3,4,5,5,3,0,1,1,1,0,0,1,3,4,2,1,5,4,5,2,5,2,3,5,3,5,5,5,5,4
+230,Male,16–20,Management Sciences,Computer Science,300,Yes,Yes,5,5,3,4,5,5,5,0,1,1,1,1,1,1,3,3,3,4,3,3,4,3,5,4,4,5,3,4,4,4,3,4
+231,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,5,5,5,5,5,3,1,0,1,1,1,1,1,4,2,4,3,3,2,3,3,4,3,5,4,5,4,2,3,4,4
+232,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,1,2,5,5,4,3,5,1,1,1,1,1,1,0,5,1,4,4,2,5,5,2,4,5,5,5,5,5,3,4,3,5
+233,Female,16–20,Management Sciences,Accounting,300,Yes,Yes,1,4,2,3,4,4,5,1,1,1,1,1,1,1,1,3,2,1,5,3,5,2,5,4,3,5,4,4,5,5,4,5
+234,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,2,4,2,4,5,4,1,1,1,1,1,1,1,2,4,4,3,5,4,3,3,5,4,2,5,3,3,5,4,4,5
+235,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,4,3,4,5,3,2,1,1,1,1,1,0,0,2,4,4,5,3,4,3,5,5,3,2,5,4,5,4,4,3,5
+236,Female,26–30,Humanities,Others,400,Yes,Yes,3,5,4,2,4,5,5,1,0,0,1,1,1,0,5,4,3,5,5,5,1,3,2,4,4,5,3,5,5,3,2,5
+237,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,2,4,5,5,2,2,5,0,1,1,1,1,1,1,2,5,4,4,4,4,2,4,3,3,5,4,3,5,5,5,4,3
+238,Female,26–30,Humanities,Others,400,Yes,Yes,4,3,1,4,4,5,4,1,1,1,0,1,1,1,5,4,3,4,5,5,2,3,5,4,3,5,4,5,5,4,5,3
+239,Female,31 and above,Agriculture,Others,500,Yes,Yes,5,4,4,5,4,1,5,1,1,1,1,1,0,1,2,5,3,3,1,3,5,4,4,5,2,3,4,2,4,4,5,4
+240,Female,26–30,Humanities,English,400,Yes,Yes,5,5,5,2,5,4,3,1,0,0,1,0,1,0,2,4,1,3,3,3,5,3,3,3,2,5,5,4,5,4,5,4
+241,Female,31 and above,Agriculture,Others,500,Yes,Yes,4,5,4,4,4,4,4,1,1,1,1,1,1,1,1,3,4,4,2,5,4,4,4,3,1,5,1,4,5,3,2,4
+242,Male,21–25,ICT,Mass Communication,200,Yes,Yes,1,2,4,5,2,4,5,1,1,1,1,1,0,1,2,2,5,4,4,3,3,2,5,5,4,4,5,4,2,5,4,5
+243,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,1,4,4,3,4,3,1,1,0,0,0,1,0,3,5,5,3,5,2,5,2,5,2,4,4,5,1,4,4,4,1
+244,Female,26–30,Pure and Applied Sciences,Physics,400,Yes,Yes,5,4,5,5,4,2,4,1,1,1,1,1,1,0,4,2,5,2,3,4,2,5,3,5,3,3,4,4,4,5,5,3
+245,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,5,4,3,5,5,5,1,1,0,1,0,1,1,3,4,1,3,4,4,4,2,5,4,2,5,2,5,5,4,3,3
+246,Male,21–25,ICT,Mass Communication,200,Yes,Yes,3,2,5,4,3,3,5,1,1,1,0,1,1,1,3,4,5,1,3,5,2,2,4,5,4,3,5,4,5,3,5,5
+247,Female,31 and above,Agriculture,Others,500,Yes,Yes,3,4,5,4,1,4,4,1,0,1,0,1,1,1,2,3,3,4,2,4,4,2,5,3,4,5,2,3,3,5,2,4
+248,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,4,4,5,5,4,5,1,0,0,1,0,1,0,2,4,3,2,3,2,5,2,5,2,2,5,3,5,5,3,5,3
+249,Female,16–20,Management Sciences,Accounting,300,Yes,Yes,4,3,4,5,3,4,1,1,0,1,1,1,1,0,4,4,1,2,4,5,5,5,4,3,4,5,4,3,5,1,3,4
+250,Female,16–20,Pure and Applied Sciences,Business Administration,400,Yes,Yes,5,4,5,5,1,3,5,1,1,1,1,1,1,1,4,4,4,5,4,3,4,1,4,3,4,5,5,5,3,3,4,4
+251,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,5,4,2,4,4,5,0,0,0,0,1,1,0,2,5,2,3,4,5,1,4,5,3,2,4,3,2,4,3,4,5
+252,Female,16–20,Management Sciences,Accounting,300,Yes,Yes,4,4,4,5,4,2,5,0,1,1,0,1,0,1,3,1,2,4,4,5,3,5,5,3,5,4,5,5,1,5,4,5
+253,Male,21–25,ICT,Computer Science,300,Yes,Yes,4,2,4,5,4,5,4,1,1,1,1,1,1,0,3,2,3,4,3,3,4,5,5,5,4,5,5,4,5,2,5,5
+254,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,4,4,2,2,5,5,5,1,1,1,1,0,1,1,3,4,1,2,5,4,5,1,3,4,4,5,2,3,5,5,5,5
+255,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,5,2,4,5,1,5,1,0,0,1,0,1,1,3,5,3,5,4,3,3,4,4,4,4,5,4,3,4,5,5,4
+256,Female,26–30,Agriculture,Others,500,Yes,Yes,4,1,5,4,4,1,1,0,1,1,1,0,1,1,3,4,4,5,5,5,5,5,5,4,4,4,4,4,4,5,5,5
+257,Male,21–25,ICT,Mass Communication,100,Yes,Yes,3,5,4,5,5,4,3,1,1,1,1,1,1,1,4,5,4,2,4,3,1,2,2,5,5,5,3,4,4,2,2,3
+258,Male,21–25,ICT,Mass Communication,200,Yes,Yes,3,5,3,3,3,3,4,1,1,0,0,1,1,0,4,2,3,2,4,1,5,2,3,4,5,4,2,2,3,5,5,4
+259,Female,16–20,Management Sciences,Accounting,300,Yes,Yes,4,5,4,4,4,3,5,0,1,1,0,0,0,1,5,4,2,2,5,5,5,1,3,4,2,3,4,5,3,2,5,2
+260,Male,21–25,ICT,Computer Science,300,Yes,Yes,5,2,4,5,4,5,3,1,1,1,1,1,1,1,4,4,2,5,4,2,2,5,4,3,3,4,2,1,5,5,5,5
+261,Male,21–25,ICT,Mass Communication,300,Yes,Yes,5,4,4,4,4,4,2,1,1,1,1,0,1,0,1,4,2,2,3,2,5,3,2,4,4,4,4,5,3,5,2,3
+262,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,2,5,5,5,5,3,1,1,1,1,1,1,0,3,4,4,4,2,5,5,3,1,3,2,4,4,2,4,4,4,5
+263,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,4,5,4,5,5,5,1,0,1,1,1,1,0,3,5,2,4,3,4,3,4,5,3,4,4,5,4,5,4,5,2
+264,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,3,4,4,5,4,4,1,1,1,1,1,1,0,2,5,4,3,4,5,2,5,5,5,4,5,4,5,4,4,2,4
+265,Male,21–25,ICT,Computer Science,300,Yes,Yes,3,5,4,4,5,4,5,1,0,1,1,1,1,1,3,4,2,3,1,5,4,2,5,4,2,5,4,4,4,5,4,2
+266,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,4,3,3,4,1,5,0,0,0,1,1,0,0,4,3,4,3,4,3,2,1,4,2,3,3,5,4,1,4,3,4
+267,Female,26–30,Pure and Applied Sciences,Political Science,400,Yes,Yes,1,3,2,5,4,2,3,1,1,1,1,1,0,1,2,5,2,4,2,4,3,2,5,4,1,2,3,3,4,4,4,2
+268,Female,16–20,Social Sciences,Accounting,400,Yes,Yes,5,4,5,3,4,5,4,1,1,0,1,0,0,1,2,3,4,4,4,3,4,4,5,3,4,4,4,3,4,5,5,5
+269,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,3,5,4,5,5,4,2,1,1,1,1,1,1,0,2,1,4,3,5,4,4,4,4,4,4,4,4,3,5,5,5,5
+270,Male,21–25,ICT,Mass Communication,200,Yes,Yes,1,5,5,3,5,4,5,1,1,1,0,1,1,0,5,1,3,3,1,3,5,5,5,5,4,5,5,4,5,4,5,3
+271,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,5,3,5,5,4,5,1,1,1,1,1,1,1,5,5,4,2,4,3,5,5,1,2,2,4,4,3,4,4,3,5
+272,Female,16–20,Management Sciences,Accounting,300,Yes,Yes,4,3,5,3,4,3,5,1,1,1,1,1,1,1,1,4,5,3,4,5,2,3,3,3,5,2,4,4,5,4,2,5
+273,Female,16–20,Pure and Applied Sciences,Business Administration,400,Yes,Yes,3,3,5,4,4,1,4,1,1,1,1,1,1,1,4,2,3,3,5,5,3,2,3,4,5,4,3,3,5,5,4,5
+274,Female,16–20,Pure and Applied Sciences,Political Science,400,Yes,Yes,3,5,2,5,3,5,5,1,1,0,1,1,1,0,4,5,3,3,4,1,3,4,5,5,1,3,4,4,5,5,4,4
+275,Male,21–25,ICT,Computer Science,300,Yes,Yes,3,4,4,5,4,2,4,1,0,1,0,1,1,0,3,3,5,4,3,3,5,4,3,3,1,4,3,4,5,5,5,3
+276,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,5,5,5,3,5,2,0,1,1,0,0,1,0,4,4,2,5,5,3,5,4,3,1,4,4,3,5,5,5,5,4
+277,Female,26–30,Pure and Applied Sciences,Political Science,400,Yes,Yes,5,4,5,5,5,4,3,1,1,1,1,0,1,1,3,4,4,3,4,3,5,4,5,1,4,1,3,3,5,3,4,5
+278,Male,16–20,Management Sciences,Computer Science,300,Yes,Yes,2,4,5,4,3,2,5,1,1,1,0,1,1,1,2,2,3,2,3,3,2,5,2,5,3,4,3,5,5,5,2,4
+279,Female,16–20,Social Sciences,Accounting,300,Yes,Yes,5,3,2,4,2,5,4,0,1,1,0,1,1,1,3,4,4,2,2,5,4,3,4,5,2,3,4,4,3,3,3,2
+280,Female,26–30,Humanities,Physics,400,Yes,Yes,5,1,4,5,5,2,4,1,1,0,1,0,1,1,2,3,4,2,5,3,3,2,4,4,3,5,5,5,4,3,4,4
+281,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,4,2,1,5,4,3,0,1,1,1,0,1,1,2,2,3,2,2,4,5,4,3,1,3,5,5,5,4,3,4,5
+282,Female,16–20,Social Sciences,Accounting,300,Yes,Yes,4,5,5,2,5,3,4,1,1,0,1,1,1,0,5,2,1,3,5,3,4,5,3,4,5,4,5,3,5,5,5,3
+283,Female,26–30,Humanities,Others,400,Yes,Yes,3,5,4,3,3,5,4,1,0,1,1,0,1,1,4,3,2,2,3,5,5,4,3,3,2,3,2,5,3,3,4,3
+284,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,5,5,3,3,4,3,1,1,0,0,0,0,1,5,3,2,4,4,4,3,5,3,3,3,4,4,5,3,3,5,5
+285,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,5,5,5,5,3,4,3,1,0,1,0,1,0,1,4,1,4,5,4,2,3,5,3,2,5,3,4,2,5,3,5,4
+286,Female,26–30,Humanities,English,400,Yes,Yes,3,5,5,3,4,1,5,1,1,0,1,1,1,0,3,2,2,3,4,5,4,1,5,5,2,4,4,5,5,5,3,5
+287,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,2,4,5,5,4,2,4,1,0,1,1,1,0,1,4,1,5,3,1,1,4,3,4,3,4,3,5,2,5,2,4,5
+288,Male,21–25,ICT,Computer Science,300,Yes,Yes,4,4,3,2,4,4,4,0,1,1,0,1,1,0,3,2,4,4,1,4,4,4,3,4,3,4,4,5,5,5,4,5
+289,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,4,4,4,5,4,4,0,0,1,0,1,1,0,2,3,3,5,4,3,5,2,4,1,4,4,4,4,4,4,5,5
+290,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,3,5,5,4,4,5,5,0,1,1,1,1,1,1,2,2,5,3,3,3,3,3,5,4,3,4,3,5,4,4,3,1
+291,Male,21–25,ICT,Mass Communication,100,Yes,Yes,1,4,5,1,4,4,2,1,1,1,1,1,0,1,5,4,3,2,3,2,5,5,3,4,4,4,3,4,4,5,1,5
+292,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,3,3,4,5,4,5,1,1,1,1,0,0,1,4,2,3,4,5,5,1,1,1,2,3,4,3,5,1,4,4,4
+293,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,5,4,5,3,5,5,1,1,1,1,1,1,1,3,4,4,3,5,4,5,5,3,3,4,5,3,2,5,4,3,4
+294,Female,16–20,Social Sciences,Accounting,400,Yes,Yes,1,5,5,5,2,5,5,1,1,0,1,0,1,1,3,5,5,3,5,3,2,4,4,3,2,5,4,3,5,4,5,4
+295,Male,16–20,Management Sciences,Computer Science,300,Yes,Yes,5,4,5,5,5,4,4,1,1,1,0,0,1,1,1,3,2,4,3,3,3,2,4,5,4,5,4,4,5,5,1,4
+296,Female,26–30,Humanities,Others,400,Yes,Yes,5,4,4,5,4,5,5,1,1,1,1,0,1,1,4,3,2,3,4,4,4,2,3,1,4,5,5,2,4,1,5,5
+297,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,1,2,4,4,4,2,0,1,1,1,0,1,1,4,2,4,2,4,5,4,5,5,5,1,5,5,3,3,4,4,5
+298,Female,26–30,Pure and Applied Sciences,Political Science,400,Yes,Yes,5,5,2,2,2,5,3,1,1,1,0,1,1,0,5,1,2,4,2,3,3,4,5,3,2,5,4,4,5,5,3,4
+299,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,4,3,2,5,5,4,5,1,1,1,1,1,1,1,2,3,4,1,2,2,4,3,5,3,4,4,5,5,3,3,5,2
+300,Female,16–20,Social Sciences,Accounting,400,Yes,Yes,5,3,4,5,1,3,5,1,1,1,0,0,1,1,4,1,4,4,3,5,5,2,4,5,4,4,5,3,4,4,3,3
+301,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,4,5,4,4,3,5,3,0,1,0,1,1,0,0,4,3,5,3,5,5,4,5,4,5,3,3,4,1,5,5,5,5
+302,Male,21–25,ICT,Computer Science,300,Yes,Yes,3,4,5,5,4,4,5,1,1,0,1,1,0,0,5,3,2,4,2,4,5,5,4,3,3,5,3,5,5,4,2,5
+303,Female,31 and above,Agriculture,Others,500,Yes,Yes,5,2,5,5,5,5,1,0,1,1,1,1,1,1,2,4,3,3,3,4,4,1,4,3,3,5,2,3,3,4,4,3
+304,Male,21–25,ICT,Mass Communication,200,Yes,Yes,2,5,5,3,4,1,5,1,1,1,0,1,1,1,4,5,2,4,4,4,3,3,5,3,3,5,2,1,5,5,3,5
+305,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,2,5,5,3,4,2,1,1,0,1,0,1,1,2,2,4,1,5,4,4,4,5,4,4,3,4,5,4,5,5,5
+306,Male,21–25,ICT,Mass Communication,200,Yes,Yes,3,4,5,4,2,5,2,1,1,1,1,1,0,1,3,5,3,4,1,4,4,3,4,3,5,5,5,4,3,3,5,3
+307,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,4,5,4,4,3,4,1,1,1,1,1,1,0,5,2,2,4,4,3,2,4,3,4,3,4,2,4,3,4,5,5
+308,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,5,5,5,4,5,4,1,1,1,0,1,1,1,2,4,3,4,4,4,2,2,4,4,5,3,4,5,4,2,4,4
+309,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,4,4,5,4,4,5,1,0,0,1,0,1,0,5,5,2,2,3,4,5,5,3,3,5,4,3,5,5,4,3,5
+310,Female,16–20,Pure and Applied Sciences,Political Science,400,Yes,Yes,3,4,1,3,3,4,1,1,1,1,1,1,1,0,3,1,3,1,4,3,3,4,4,5,4,3,4,4,3,5,5,5
+311,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,5,5,5,5,4,5,1,1,1,0,1,1,1,5,1,4,4,3,4,5,3,4,4,5,5,5,4,5,4,4,3
+312,Male,21–25,ICT,Mass Communication,300,Yes,Yes,3,4,3,5,5,5,5,0,1,0,1,1,1,1,3,3,4,4,5,3,2,2,3,2,3,4,5,5,3,3,5,4
+313,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,5,4,4,4,5,4,1,1,1,1,0,1,1,5,4,4,4,4,4,3,5,2,5,2,5,3,3,4,5,4,4
+314,Female,26–30,Agriculture,Others,500,Yes,Yes,5,3,4,3,5,5,5,1,1,1,1,0,1,1,1,4,3,3,5,5,3,4,4,4,4,4,4,5,5,5,5,3
+315,Female,26–30,Pure and Applied Sciences,Physics,400,Yes,Yes,5,5,5,4,5,5,5,1,0,1,1,1,1,1,4,4,1,1,4,3,3,4,4,5,4,4,5,4,4,5,5,5
+316,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,2,3,5,4,1,5,5,0,1,1,1,1,1,1,1,4,2,4,5,4,5,5,3,4,4,5,5,5,4,4,3,4
+317,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,2,5,5,2,5,3,4,0,1,1,1,1,1,1,1,2,4,1,5,2,3,5,5,4,4,4,4,5,2,3,4,5
+318,Female,26–30,Humanities,English,400,Yes,Yes,4,3,5,5,5,5,4,1,1,1,1,1,0,1,4,3,3,5,4,4,3,3,5,5,4,5,5,1,4,5,2,3
+319,Female,16–20,Management Sciences,Accounting,300,Yes,Yes,3,1,3,5,4,5,5,1,1,0,1,0,1,1,2,3,3,1,5,4,5,4,3,2,4,4,3,5,5,4,4,4
+320,Male,16–20,Management Sciences,Computer Science,300,Yes,Yes,5,2,3,3,3,5,5,0,1,1,1,1,1,1,5,4,2,3,3,4,4,4,5,3,3,5,4,3,4,1,3,2
+321,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,4,5,5,5,4,4,5,1,1,0,1,0,1,1,4,4,4,2,5,3,5,2,4,3,2,1,2,3,4,1,2,5
+322,Female,16–20,Pure and Applied Sciences,Business Administration,400,Yes,Yes,5,5,4,5,5,5,5,1,1,1,1,1,1,1,3,4,4,1,5,4,1,3,5,5,3,5,4,4,3,4,4,4
+323,Female,26–30,Humanities,Others,500,Yes,Yes,3,1,2,4,4,4,5,1,1,1,0,0,0,1,3,2,3,3,5,3,1,2,2,2,4,3,4,4,3,5,3,5
+324,Female,16–20,Management Sciences,Accounting,300,Yes,Yes,5,4,5,5,4,4,4,0,1,0,1,0,1,1,2,1,1,4,5,5,3,3,5,2,3,2,5,5,4,4,3,5
+325,Female,31 and above,Agriculture,Others,500,Yes,No,4,5,4,5,5,4,2,1,1,1,1,0,1,1,4,4,2,4,3,1,3,4,4,4,4,1,4,4,5,4,3,4
+326,Female,26–30,Humanities,Others,500,Yes,Yes,4,2,3,2,2,5,5,0,1,1,1,1,1,1,2,3,3,5,3,4,1,5,4,3,5,5,1,3,5,5,1,3
+327,Female,16–20,Pure and Applied Sciences,Political Science,400,Yes,Yes,2,5,5,5,2,4,4,0,1,1,1,1,1,1,4,4,2,3,4,4,5,4,4,5,5,5,4,5,2,5,5,3
+328,Female,16–20,Social Sciences,Accounting,400,Yes,Yes,5,5,5,5,2,5,5,1,1,1,1,0,1,0,3,2,4,4,3,2,5,3,3,5,3,5,5,4,5,4,4,5
+329,Male,16–20,Management Sciences,Computer Science,300,Yes,Yes,2,5,3,5,5,1,4,1,1,1,1,1,1,1,3,2,4,2,2,4,2,2,3,3,5,3,2,4,5,3,1,4
+330,Male,21–25,ICT,Computer Science,300,Yes,Yes,4,3,5,2,4,4,5,1,1,1,0,1,1,0,5,5,2,4,5,3,3,3,5,5,5,5,5,4,4,3,5,5
+331,Male,21–25,ICT,Mass Communication,100,Yes,Yes,3,3,2,1,4,1,4,1,1,1,0,1,0,1,4,1,3,4,5,5,3,2,4,1,3,1,2,5,5,5,4,5
+332,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,5,5,4,5,4,5,5,1,1,1,0,1,0,1,4,3,4,5,3,5,5,4,2,4,5,5,4,4,5,5,3,5
+333,Male,21–25,ICT,Computer Science,300,Yes,Yes,3,5,4,5,2,5,5,1,1,1,1,1,0,0,3,4,3,2,4,3,1,4,3,5,4,2,3,4,4,5,1,5
+334,Female,26–30,Pure and Applied Sciences,Political Science,400,Yes,Yes,5,3,5,4,4,2,2,1,1,1,0,1,1,0,2,2,5,3,4,4,1,5,4,4,1,5,4,5,4,5,5,2
+335,Female,16–20,Social Sciences,Accounting,300,Yes,Yes,4,5,4,5,5,4,2,0,1,0,1,1,1,1,3,3,3,1,2,4,2,5,5,3,4,5,4,5,4,3,3,4
+336,Male,21–25,ICT,Mass Communication,200,Yes,Yes,3,3,5,3,5,5,3,1,1,1,0,1,0,1,3,2,3,1,4,3,3,5,4,2,1,5,2,3,5,5,4,4
+337,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,5,4,3,4,3,4,0,1,1,0,1,1,1,2,2,3,1,5,5,5,4,5,2,4,4,3,5,4,4,4,4
+338,Male,21–25,ICT,Mass Communication,100,Yes,Yes,1,5,5,5,1,5,2,1,1,1,1,1,1,1,2,4,4,3,5,5,2,3,3,3,4,2,4,5,5,4,3,4
+339,Male,21–25,ICT,Mass Communication,100,Yes,Yes,3,5,5,5,5,3,5,0,1,1,0,1,1,1,1,1,4,3,4,5,5,3,2,4,3,4,3,4,4,5,5,5
+340,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,5,4,4,5,3,4,1,0,1,0,0,1,0,3,4,3,4,4,5,2,2,3,5,2,5,5,3,3,5,4,4
+341,Male,16–20,Management Sciences,Computer Science,300,Yes,Yes,2,1,4,5,5,4,5,1,1,0,1,1,1,1,3,4,1,3,4,5,5,5,2,3,5,4,4,5,3,5,5,4
+342,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,4,5,1,3,4,5,1,1,0,1,1,1,1,3,4,4,1,4,5,5,3,2,4,3,5,5,5,5,4,4,5
+343,Female,16–20,Social Sciences,Accounting,400,Yes,Yes,5,1,4,5,1,2,5,1,1,0,1,0,1,1,4,1,3,5,4,4,5,4,5,4,2,4,4,5,4,5,4,3
+344,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,2,5,4,3,4,3,0,1,1,1,1,1,1,2,4,3,4,5,3,4,4,2,5,3,2,5,3,5,5,5,4
+345,Female,26–30,Humanities,English,400,Yes,Yes,3,4,5,5,5,2,5,1,1,1,1,1,1,1,3,1,2,5,3,5,3,5,2,2,3,4,4,4,4,5,2,4
+346,Male,21–25,ICT,Mass Communication,100,Yes,Yes,2,4,4,1,2,5,4,1,1,1,1,1,0,1,5,3,5,3,2,5,4,3,3,5,2,4,4,5,4,1,5,4
+347,Female,26–30,Humanities,English,400,Yes,Yes,2,5,4,5,4,2,4,1,1,1,1,1,0,1,2,3,3,4,3,3,4,4,4,4,4,1,4,5,5,4,5,4
+348,Female,16–20,Social Sciences,Accounting,400,Yes,Yes,4,4,3,5,2,4,3,1,1,0,1,1,0,1,3,5,3,3,4,3,4,5,5,4,3,5,1,4,3,5,5,5
+349,Female,16–20,Management Sciences,Accounting,300,Yes,Yes,4,4,4,5,3,2,4,1,0,1,1,1,0,0,1,3,4,3,2,4,2,2,3,4,4,5,5,4,3,5,5,5
+350,Male,21–25,ICT,Mass Communication,100,Yes,Yes,2,4,5,5,5,4,5,1,1,1,1,1,1,1,2,4,2,4,1,3,1,3,3,2,2,2,4,4,5,3,5,4
+351,Female,26–30,Pure and Applied Sciences,Political Science,400,Yes,Yes,5,4,5,5,1,2,3,1,1,1,1,0,1,1,3,5,4,2,4,3,4,5,4,5,2,5,5,5,4,1,5,5
+352,Male,21–25,ICT,Mass Communication,200,Yes,Yes,2,3,4,5,5,4,2,1,0,1,0,0,1,1,3,3,4,2,3,5,3,3,1,2,4,5,5,4,2,5,5,2
+353,Female,16–20,Social Sciences,Accounting,400,Yes,Yes,5,1,4,5,3,5,2,1,1,1,1,1,1,1,5,3,5,3,4,4,2,5,2,4,5,4,3,2,2,4,4,5
+354,Male,21–25,ICT,Computer Science,300,Yes,Yes,5,3,4,4,2,5,5,1,0,1,1,1,1,1,5,5,4,3,4,4,4,4,4,2,5,4,5,3,4,5,2,4
+355,Female,26–30,Pure and Applied Sciences,Physics,400,Yes,Yes,4,2,2,3,5,5,5,1,1,1,0,1,1,1,2,2,3,5,5,3,4,3,3,5,4,4,3,5,5,5,5,4
+356,Female,31 and above,Agriculture,Others,500,Yes,No,5,1,5,5,2,4,5,1,0,1,1,1,1,1,3,2,5,1,2,5,3,5,5,5,3,2,5,5,4,5,3,1
+357,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,4,5,4,3,4,3,1,1,1,1,1,1,1,5,4,3,1,4,4,2,4,3,5,4,4,4,5,3,5,2,5
+358,Female,26–30,Pure and Applied Sciences,Political Science,400,Yes,Yes,2,5,5,5,5,4,5,1,1,1,1,1,1,1,5,2,1,5,5,2,4,3,1,5,4,3,5,5,4,4,5,2
+359,Female,31 and above,Agriculture,Others,500,Yes,Yes,4,2,4,4,1,5,2,1,1,0,1,1,1,1,3,3,2,3,4,4,2,5,4,3,3,4,4,3,3,3,5,5
+360,Female,26–30,Pure and Applied Sciences,Political Science,400,Yes,Yes,5,5,1,4,5,4,2,1,1,0,1,0,1,1,5,4,5,5,2,4,2,1,5,5,5,5,5,5,4,5,5,5
+361,Female,16–20,Management Sciences,Accounting,300,Yes,Yes,2,1,3,4,3,4,5,1,1,1,1,1,1,1,3,2,2,3,4,3,5,2,5,5,5,4,3,4,5,4,5,4
+362,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,2,5,5,5,4,5,1,1,0,1,1,1,1,5,3,2,2,5,1,3,5,5,5,3,3,5,3,4,4,5,5
+363,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,3,2,4,1,2,3,1,1,1,1,0,1,1,4,4,3,5,5,3,5,5,3,3,5,5,5,4,5,5,4,5
+364,Male,21–25,ICT,Computer Science,300,Yes,Yes,4,5,2,5,2,3,5,1,1,1,0,0,0,1,3,5,2,3,2,3,2,3,5,5,3,4,5,5,2,5,5,5
+365,Male,21–25,ICT,Computer Science,300,Yes,Yes,5,3,4,2,2,5,1,0,0,1,1,1,1,0,3,4,3,3,2,3,1,5,5,3,3,4,3,1,5,5,3,3
+366,Female,31 and above,Agriculture,Others,500,No,No,3,4,3,5,4,4,5,1,0,1,0,1,0,0,2,3,4,3,4,4,4,1,2,2,3,4,3,1,4,5,5,4
+367,Male,21–25,ICT,Computer Science,300,Yes,Yes,5,3,5,4,3,5,4,1,1,0,1,1,1,1,4,3,5,3,2,5,2,3,5,5,5,4,2,2,4,5,4,4
+368,Male,21–25,ICT,Computer Science,300,Yes,Yes,3,4,5,5,5,4,5,0,1,0,1,1,0,1,2,3,2,2,5,5,3,5,4,3,5,5,3,5,5,5,5,2
+369,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,5,5,3,4,2,4,1,1,0,1,1,1,1,3,3,5,1,2,3,4,4,5,1,5,4,5,1,5,4,5,4
+370,Male,21–25,ICT,Mass Communication,100,Yes,Yes,4,4,2,2,5,2,5,1,0,1,1,1,1,1,3,4,2,2,1,5,4,4,1,4,4,4,4,4,5,4,2,4
+371,Female,26–30,Humanities,English,400,Yes,Yes,4,3,3,4,1,5,1,1,1,1,0,1,0,1,4,5,3,3,3,1,4,3,3,5,3,4,5,4,4,2,4,3
+372,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,5,5,3,4,3,2,4,1,1,1,1,0,1,1,2,2,4,3,4,5,3,4,3,4,2,5,4,5,1,5,5,4
+373,Female,16–20,Social Sciences,Accounting,300,Yes,Yes,5,4,5,4,5,1,2,0,0,0,1,1,1,1,3,1,1,5,4,4,5,2,3,5,3,3,3,5,5,1,4,4
+374,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,5,5,4,4,3,5,1,1,0,1,1,1,1,2,3,4,3,4,4,4,5,4,4,5,5,3,3,4,5,4,4
+375,Female,26–30,Pure and Applied Sciences,Political Science,400,Yes,Yes,4,2,5,4,4,4,2,1,1,1,1,1,1,0,5,4,3,4,2,4,3,3,3,3,4,3,5,1,4,5,5,5
+376,Male,21–25,ICT,Computer Science,300,Yes,Yes,5,3,4,5,4,2,4,1,1,1,1,1,1,1,5,1,3,4,2,1,3,5,3,1,5,4,4,4,5,5,5,5
+377,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,3,4,5,4,2,5,3,1,0,1,1,0,1,1,2,4,2,4,4,3,3,5,4,3,2,5,3,5,4,3,5,3
+378,Male,21–25,ICT,Computer Science,300,Yes,Yes,2,5,1,1,4,1,5,1,1,1,1,1,1,1,2,5,4,5,2,2,3,1,4,4,3,4,3,4,5,5,5,5
+379,Female,16–20,Social Sciences,Business Administration,400,Yes,Yes,1,5,5,4,4,5,5,1,1,1,0,0,1,1,1,4,5,1,5,3,3,5,3,5,3,5,5,5,4,5,1,5
+380,Female,26–30,Humanities,English,400,Yes,Yes,2,5,5,5,4,5,4,1,1,1,1,1,1,1,1,4,2,4,5,4,5,2,4,4,5,5,5,5,5,4,5,4
+381,Female,16–20,Social Sciences,Accounting,300,Yes,Yes,4,5,5,2,5,5,5,1,1,1,1,1,1,1,3,3,5,5,4,5,4,4,4,4,3,4,3,5,3,3,4,5
+382,Female,26–30,Pure and Applied Sciences,Political Science,400,Yes,Yes,1,2,5,5,2,4,5,1,1,0,1,0,1,0,4,5,4,2,4,5,4,4,3,5,3,5,5,5,3,5,2,2
+383,Male,21–25,ICT,Mass Communication,200,Yes,Yes,3,3,4,1,4,5,5,1,1,1,1,1,1,1,5,3,3,3,3,4,4,4,2,4,5,4,2,4,4,3,4,4
+384,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,4,5,4,4,5,4,1,1,1,1,1,0,1,3,3,3,5,4,5,5,5,4,2,2,4,2,5,5,5,5,5
+385,Male,21–25,ICT,Mass Communication,200,Yes,Yes,3,5,5,3,2,4,5,0,1,1,1,1,1,1,3,3,2,2,5,2,5,5,3,5,3,2,4,4,5,4,5,5
+386,Female,26–30,Humanities,Others,400,Yes,Yes,3,5,1,3,2,5,5,1,1,1,1,1,1,1,3,2,4,4,4,3,4,3,3,2,3,4,3,4,5,4,5,4
+387,Male,21–25,ICT,Mass Communication,200,Yes,Yes,2,4,1,3,1,5,1,1,1,1,1,1,0,1,3,5,2,2,5,4,4,4,3,4,3,5,4,5,5,4,4,3
+388,Female,31 and above,Agriculture,Others,500,Yes,Yes,5,5,5,5,4,3,3,1,1,1,1,1,1,1,2,5,3,2,5,3,5,3,4,5,3,5,4,5,5,4,5,4
+389,Male,21–25,ICT,Mass Communication,200,Yes,Yes,4,2,5,3,5,3,4,1,0,1,0,1,1,1,4,2,4,4,5,4,1,4,3,2,3,4,4,5,5,5,3,4
+390,Female,26–30,Humanities,Physics,400,Yes,Yes,5,3,5,2,4,1,5,1,0,0,1,0,1,1,4,3,3,3,4,3,3,2,5,4,5,4,5,5,4,5,2,2
+391,Female,16–20,Management Sciences,Computer Science,300,Yes,Yes,4,3,4,4,4,2,5,1,1,1,1,0,1,1,2,3,3,5,2,3,3,4,3,2,4,2,4,5,2,1,5,4
+392,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,5,4,5,3,4,5,1,1,1,1,0,0,0,3,1,3,5,3,4,4,3,3,5,5,1,5,2,4,4,5,5
+393,Female,31 and above,Agriculture,Others,500,No,No,4,1,5,4,4,5,2,1,1,1,1,0,1,1,3,1,5,1,4,4,4,3,4,3,4,5,5,4,5,5,5,5
+394,Male,21–25,ICT,Mass Communication,100,Yes,Yes,5,1,5,5,5,3,5,1,1,1,1,1,1,0,4,1,1,5,3,3,5,2,5,3,4,4,5,5,3,3,5,4
+395,Male,21–25,ICT,Computer Science,300,Yes,Yes,5,5,5,3,1,5,3,1,1,0,1,1,1,1,5,2,2,2,1,5,2,5,3,4,2,4,5,3,3,4,5,5
+396,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,5,2,5,5,4,4,1,1,1,1,1,1,1,3,3,2,4,4,5,5,2,5,1,3,4,4,4,4,4,5,5
+397,Male,21–25,ICT,Mass Communication,200,Yes,Yes,3,2,3,3,4,2,3,0,1,1,1,1,1,0,3,2,4,4,5,4,3,4,1,4,4,5,5,2,3,3,4,5
+398,Female,16–20,Social Sciences,Accounting,400,Yes,Yes,4,5,5,4,4,4,5,1,1,0,1,1,1,1,3,1,2,3,4,5,2,4,1,2,5,5,4,5,4,4,2,5
+399,Female,26–30,Humanities,English,400,Yes,Yes,1,4,4,3,4,5,3,1,1,1,1,1,1,1,2,4,4,2,2,5,5,4,2,5,5,3,5,4,5,1,4,2
+400,Male,21–25,ICT,Mass Communication,200,Yes,Yes,5,5,4,4,4,5,4,0,1,1,1,1,1,0,1,3,3,5,3,3,5,4,4,3,3,4,5,3,5,2,5,4

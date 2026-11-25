@@ -1,0 +1,44 @@
+column,meaning
+respondent_id,Respondent number
+gender,Gender
+age_range,Age range
+faculty,Faculty
+department,Department
+level,Level of study
+owns_smartphone,Owns a smartphone
+uses_whatsapp,Uses WhatsApp
+b1,I frequently receive academic updates via WhatsApp.
+b2,I have received false or misleading academic information on WhatsApp.
+b3,I usually believe academic information shared by my coursemates.
+b4,I often verify academic information before acting on it.
+b5,I have shared academic information without verifying its source.
+b6,I rarely receive academic updates from official school platforms.
+b7,Misinformation spreads faster than verified updates on WhatsApp.
+c1_type_1,Has seen: False exam dates
+c1_type_2,Has seen: Fake fee payment deadlines
+c1_type_3,Has seen: Incorrect lecture cancellations or timetable changes
+c1_type_4,Has seen: Misleading school resumption or strike information
+c1_type_5,Has seen: Fake course registration instructions
+c1_type_6,Has seen: Misstated academic calendar or event dates
+c1_type_7,Has seen: Other (unspecified academic rumors or false memos)
+c2_q8,I always cross-check academic information received on WhatsApp.
+c2_q9,I rely more on WhatsApp updates than official school platforms.
+c2_q10,I have acted on unverified academic news and later found it to be false.
+c2_q11,I believe students are responsible for verifying the academic news they share.
+d1,"Fake academic news has caused me to miss a class, test, or assignment."
+d2,I have experienced anxiety or stress due to false academic updates.
+d3,I have made poor academic decisions based on WhatsApp misinformation.
+d4,I now find it difficult to trust any academic news shared on WhatsApp.
+d5,Academic misinformation affects students' academic performance.
+d6,Exposure to fake news has reduced my confidence in student WhatsApp groups.
+d7,I believe the effects of academic fake news are underestimated.
+e1,The university should create an official WhatsApp broadcast list for verified academic info.
+e2,Students should be trained on how to verify academic information online.
+e3,Penalties should be introduced for students who spread fake academic news intentionally.
+e4,Lecturers and departments should adopt faster communication channels.
+e5,Digital literacy should be included in student orientation programmes.
+e6,I would prefer academic updates to come only from official school platforms.
+e7,Student leaders and course reps should verify all information before sharing.
+prevalence_score,Average of b1-b7 (1-5)
+impact_score,Average of d1-d7 (1-5)
+solutions_score,Average of e1-e7 (1-5)
