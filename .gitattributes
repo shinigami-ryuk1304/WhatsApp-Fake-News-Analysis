@@ -1,0 +1,3 @@
+# Language stats: count the SQL and Python code, not the exported dashboard page
+Dashboard/** linguist-vendored
+*.sql linguist-detectable=true linguist-language=TSQL
